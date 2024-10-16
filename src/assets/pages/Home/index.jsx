@@ -1,7 +1,7 @@
  import  { Container, Form, Title, TopBackground, ContainerInputs, InputLabel, Input, Button } from './styles'
 
 
-import UsersImage from '../../assets/users.png';
+import UsersImage from '../../assets/users.png'
 
 
 
